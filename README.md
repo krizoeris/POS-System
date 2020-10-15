@@ -1,2 +1,2 @@
-# Point-of-Sale-app
+# POS System
 Cool App Like KFC
